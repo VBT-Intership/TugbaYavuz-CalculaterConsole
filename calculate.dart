@@ -16,7 +16,7 @@ void main(List<String> args) {
     'Cıkarma için 2  giriniz\n'
     'Carpma  için 3  giriniz\n'
     'Bolme   için 4  giriniz\n'
-    'Çıkmak  için -1 giriniz');
+    'Çıkmak  için e giriniz');
 
     
   while(true){
